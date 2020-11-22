@@ -1,3 +1,9 @@
+------
+Board game for 3 to 5 players. In French.
+Currently testing and iterating on the rules.
+------
+
+
 # MONKEYS
 > Dans la savane, tous les singes vivent heureux. Nourrissez vos singes, gardez-les loin du léopard qui rôde et remportez la victoire en épouillant toute votre tribu !
 
