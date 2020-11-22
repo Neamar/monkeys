@@ -73,3 +73,7 @@ Chaque joueur nourrit ses singes : pour cela, il enlève autant de bananes qu'il
 Si, *après ces actions*, un joueur possède au moins trois singes, que tous ses singes sont épouillés, et qu'il a encore en réserve une banane par singe, il remporte la partie !
 
 Sinon, une nouvelle journée commence.
+
+-----
+Une image du plateau de jeu utilisé pour faire les tests :)
+![Example game](example-game.jpeg)
