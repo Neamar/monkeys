@@ -35,11 +35,9 @@ Le singe récupère la moitié des bananes présentes sur le lieu, arrondi au su
 Le singe secoue le bananier, et fait tomber des bananes au pied du bananier. Lancez un dé 6 pour savoir combien de bananes tombent, puis ajoutez ces bananes à la réserve du lieu "pied du bananier".
 Si le singe est le premier à faire cette action ce tour-ci, il récupère une banane.
 
-#### Baobab des chamanes
-Lorsque un singe pénètre dans le baobab des chamanes, le prochain singe de ce joueur pourra changer de lieu de destination si il le souhaite.
-
-#### Piège !
-Choisissez un lieu. Ce lieu est fermé pour le round : si des singes s'y aventurent, ils ne peuvent pas être mangés, mais ils ne peuvent pas non plus effectuer leur action. Le même lieu ne peut être fermé deux rounds de suite, et on ne peut pas non plus fermer le lieu sur lequel le léopard se trouvait au dernier tour.
+#### Prière au dieu Babouin
+Si des bananes sont présentes sur le lieu, le singe ramène toutes les bananes.
+Si aucune banane n'est présente, le singe dessine sur les murs de la caverne du dieu Babouin. Ému, le dieu Babouin place 3 bananes dans la caverne pour le prochain visiteur.
 
 #### Fosse d'aisance
 Débarassez-vous de tous les jetons 💩 dans votre habitat.
@@ -55,22 +53,23 @@ Si un troisième singe arrive, *il n'épouille pas le second* : il attend juste 
 > Note : un singe ne peut pas refuser d'épouiller un singe déjà présent. Les singes ne sont pas des gros égoïstes comme vous. Si un singe est déjà dans le bain de boue, même si il ne fait pas partie de la tribu du nouveau venu, il sera épouillé.
 > Note : si un singe épouille un singe qui est déjà épouillé, rien ne se passe.
 
-##### Prière au dieu Babouin
-Si des bananes sont présentes sur le lieu, le singe ramène toutes les bananes.
-Si aucune banane n'est présente, le singe dessine sur les murs de la caverne du dieu Babouin. Ému, le dieu Babouin place 3 bananes dans la caverne pour le prochain visiteur.
+#### Piège !
+Placer un marqueur "poux" sur un lieu. Le prochain singe épouillé qui s'aventurera sur ce lieu attrapera des poux !
+
+#### Baobab des chamanes
+Lorsque un singe pénètre dans le baobab des chamanes, on résout tout de suite les deux prochains singes de ce joueur.
 
 #### Fin du tour
-
 À la fin de chaque tour, chaque joueur prend autant de jetons 💩 qu'il a de singes dans son habitat. Si il n'y a pas assez de place pour placer tous les jetons, pour chaque jeton qui ne peut pas être placé, vous perdez une banane qui se périme dans cet environnement dégueulasse. Si vous n'avez pas de bananes à enlever, rien ne se passe.
 
 Le premier joueur prend le jeton léopard, puis donne le jeton premier joueur au joueur à sa gauche.
-On place une banane au pied du bananier.
+On place une banane au pied du bananier et on enlève tous les jetons "poux" en jeu.
 
 On déplace le jeton tour d'un cran (de matinée vers après-midi, etc.). Si le jeton était sur "soirée", on réalise les actions marquées en "fin de journée", sinon un nouveau tour commence.
 
 ## Fin de journée
 Chaque joueur nourrit ses singes : pour cela, il enlève autant de bananes qu'il a de singes dans son habitat. S'il n'a pas assez de bananes pour nourrir tous ses singes, pour chaque tranche de deux bananes manquantes, un des singes abandonne son habitat (une ou deux bananes manquantes : un singe part, trois ou quatre bananes manquantes : deux singes, etc.)
 
-Si, *après ces actions*, un joueur possède au moins trois singes, que tous ses singes sont épouillés sans être malades et qu'il a encore en réserve une banane par singe, il remporte la partie !
+Si, *après ces actions*, un joueur possède au moins trois singes, que tous ses singes sont épouillés, et qu'il a encore en réserve une banane par singe, il remporte la partie !
 
 Sinon, une nouvelle journée commence.
